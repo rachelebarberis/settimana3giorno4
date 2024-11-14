@@ -1,0 +1,21 @@
+#tombola {
+    border: 1px solid red;
+
+}
+main {
+    width: 992px;
+    margin: 0 auto;
+}
+
+#tombola div {
+    display: inline-block;
+    width: 10%;
+    height: 95px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.numEstratto {
+    background-color: yellow;
+}
+
